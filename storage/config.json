@@ -1,0 +1,14 @@
+{
+  "token": "NTk5MjM1OTk2ODI2OTkyNjUx.XTqGkA.mUdEW2kgvpyA5K4mjgTjTr8_IUM",
+  "prefix": "-",
+  "color": "#0000FF",
+  "max_tickets": 1,
+
+  
+  "ticket_log": "tlogs",
+  "transcript_log": "transcripts",
+  "ticket_category": "tickets",
+  "support_team_role": "Support Team",
+  "support_manager_role": "Head Of Support",
+  "move_tickets_category": "Proceed Tickets"
+}
